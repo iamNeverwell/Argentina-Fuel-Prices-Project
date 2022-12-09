@@ -1,0 +1,14 @@
+#Initial build attempt -- in progress as of Dec 9, 2022
+
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+#read the csv file
+
+data = pd.read_csv('Downloads/slice1.csv')
+
+#new dataframe with only the info we need
+
+new_data = data[['precio', 'producto', 'fecha_vigencia']]
