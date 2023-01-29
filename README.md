@@ -19,7 +19,7 @@ I used Excel's formatting to divide the csv file into columns, and the date had 
 
 After making sure there were no other invalid entries, I was ready to upload into the IBM Db2 and hop on Python to see the difference.
 
-### January 29, 2023
+### January 29, 2023 (late night)
 
 I attempted to upload the new, clean csv file into IBM Db2, but it errors out. I made sure I had the date format correct, and everything else seemed OK
 
@@ -36,3 +36,9 @@ So I gave Google a try. It made my head buzz and I felt like I was doing the sam
 So I tried Microsoft Azure. It's deploying right now. Comparing to all other options above that I was able to create an account, Microsoft Azure seemed to be the most intuitive and easy to navigate...so far.
 
 Tomorrow or whenever I have more free time, I will continue where I left off. If that fails, I will resort to looking and following some youtube tutorial...
+
+### January 29, 2023 (afternoon)
+
+Well, Azure did not work out for the free trial version. I had to go with the pay-as-you-go if I wanted to continue...nope.
+
+Let's go back to Oracle and...it's still locked out.
