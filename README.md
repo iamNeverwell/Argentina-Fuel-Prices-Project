@@ -42,3 +42,7 @@ Tomorrow or whenever I have more free time, I will continue where I left off. If
 Well, Azure did not work out for the free trial version. I had to go with the pay-as-you-go if I wanted to continue...nope.
 
 Let's go back to Oracle and...it's still locked out.
+
+Instead of watching youtube videos that might be more wasted time, I decided to use PowerBI. It's a tool I haven't used yet, so I thought it would be a perfect time to get to know how to use it and present the visualizations for this project in this fashion.
+
+
