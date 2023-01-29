@@ -21,9 +21,13 @@ After making sure there were no other invalid entries, I was ready to upload int
 
 ### January 29, 2023
 
-I attempted to upload the new, clean csv file into IBM Db2, but it errors out. I made sure I had the date format correct, and everything else seemed OK.
+I attempted to upload the new, clean csv file into IBM Db2, but it errors out. I made sure I had the date format correct, and everything else seemed OK
 
 Upon searching the internet for answers, I found a few people that had the same problem as me, but none of the answers were helpful. I tried fiddling around on my own, I gave up on the IBM Db2.
+
+So I thought about uploading the file into my google drive and using the shareable link in the jupyter notebook.
+
+Nope.
 
 Then I tried Oracle MySQL, and it kept telling me the address was wrong until I got locked out. I waited the whole day, and I was still locked out.
 
