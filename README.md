@@ -46,3 +46,20 @@ Let's go back to Oracle and...it's still locked out.
 Instead of watching youtube videos that might be more wasted time, I decided to use PowerBI. It's a tool I haven't used yet, so I thought it would be a perfect time to get to know how to use it and present the visualizations for this project in this fashion.
 
 
+### January 30, 2023
+
+Created and uploaded a .pdf file from my PowerBI report to Github.
+
+Remarks after analyzing the data:
+
+- AUTOMOVIL CLUB ARGENTINO has the highest amount of price submissions from all the participating fuel stations (by more than half of the second place's amount;
+
+- DEHEZA S.A.I.C.F.I.	has the highest CNG price submissions and is in second place for overall fuel type submissions (which follow very closely behind);
+
+- Even though the data has very few submissions since 2001 (possibly typos or errors), things really started to take shape in 2016 with a total number of CNG submission of 52, from 1 or 2 (and more often none) submission prior. In 2017, hundreds of submissions were sent over the year for each fuel type, with a total of 1953, and roughly double that for every year since. Adoption, thus, really took place starting on 2017;
+
+- Participating stations tend to be located in big cities, and along major highways. As it is to be expected, the further away from Buenos Aires, the less stations appear; and that number dwindles when going south. Ushuaia, the southernmost city in Argentina, has 3 participating stations -- one of each type of fuel;
+
+- Echoing the fact that adoption started from 2017 onwards, the amount of price submissions had prices that did not seem valid when comparing to the rest of the dataset. Prices started to be more constant and valid from 2017 onwards.
+
+- In 2021, the price of the high-grade gasoline, the most expensive fuel type across the years, was surpassed by the high-grade diesel and the trend continues until 2023.
