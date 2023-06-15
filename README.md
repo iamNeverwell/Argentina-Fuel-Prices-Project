@@ -1,8 +1,14 @@
-[project in progress]
+This project is about learning by doing. 
+It started as an attempt to analyze historical fuel prices as reported by fuel stations, using an excel spreadsheet provided by the Argentinian government on their website. 
+The goal, among many, is to derive understanding of trends and insights by using Data Science methods and tools and achieve proficiency.
+
+[project in progress:]
 
 ### June 15, 2023
 
-I spent a few hours fiddling around QGIS and was able to generate some basic graphs. Not very informative by themselves, but may come handy to add some 3D visuals. Lots of room for improvement, but I am pleased with the results after just a few hours:
+I spent a few hours fiddling around QGIS and was able to generate some basic graphs (below). They are not very informative by themselves and there is a lot of room for improvement, but having the hands-on experience with tangible results may come handy in the future.
+
+Using only 2023 data, each cone location on the map represents the true geolocation of a fuel station; the height of the cone = price. We can clearly see that there are a lot of fuel stations in Buenos Aires that sent their fuel data to the Argentinian government, as it is to be expected.
 
 ![image](https://github.com/iamNeverwell/Argentina-Fuel-Prices-Project/assets/117388341/b204adba-d3a6-4af2-8a75-89fd01155c1c)
 ![image](https://github.com/iamNeverwell/Argentina-Fuel-Prices-Project/assets/117388341/7c8d8105-0ddb-45c2-8e98-c500415240c9)
