@@ -1,5 +1,15 @@
 [project in progress]
 
+### June 15, 2023
+
+I spent a few hours fiddling around QGIS and was able to generate some basic graphs. Not very informative by themselves, but may come handy to add some 3D visuals. Lots of room for improvement, but I am pleased with the results after just a few hours:
+
+![image](https://github.com/iamNeverwell/Argentina-Fuel-Prices-Project/assets/117388341/b204adba-d3a6-4af2-8a75-89fd01155c1c)
+![image](https://github.com/iamNeverwell/Argentina-Fuel-Prices-Project/assets/117388341/7c8d8105-0ddb-45c2-8e98-c500415240c9)
+![image](https://github.com/iamNeverwell/Argentina-Fuel-Prices-Project/assets/117388341/05b4b546-e5e6-43e8-8e2d-70bd39a8395c)
+
+What's next? Not sure, I am taking suggestions.
+
 ### June 14, 2023
 
 Updated file names to make it easier to identify them.
